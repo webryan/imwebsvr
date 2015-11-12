@@ -1,0 +1,8 @@
+﻿*.markdown
+*.zip
+note.txt
+tags
+.hg*
+tmp/*
+
+node_modules
